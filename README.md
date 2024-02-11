@@ -1,3 +1,3 @@
-The code in this repository was ... as an exercise while going through Python Crash Course 3rd Edition (2023), Chapter 15.
+The code in this repository is an exercise from Python Crash Course 3rd Edition (2023), Chapter 15.
 
-Tech stack: Python (matplotlib, plotly)
+Stack: Python (matplotlib, plotly)
